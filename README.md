@@ -11,6 +11,8 @@ Still quite new to this but I'm *loving* it
 
 Right Now sharpening my skills on Ruby on Rails and Javascript
 
+<img src=https://github.com/AlexandreDidion/AlexandreDidion/blob/master/ruby.svg width="20">
+
 
 ## Who's this? ##
    
