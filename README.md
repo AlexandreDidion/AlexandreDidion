@@ -1,4 +1,4 @@
-![drawing made by my sister](https://raw.githubusercontent.com/AlexandreDidion/AlexandreDidion/master/header_2.png?token=AP5FNMOLPUXYOLASDUPKUGDADVZ2G) 
+![drawing made by my sister](https://github.com/AlexandreDidion/AlexandreDidion/blob/master/header_2.png) 
 (Drawing made by my sister [Clémence Didion](https://www.instagram.com/clemencedidion/?hl=en) )
 
 <h1 align="center"> Welcome to my Github profile </h1>
