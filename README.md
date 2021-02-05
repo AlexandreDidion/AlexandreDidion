@@ -3,15 +3,14 @@
 
 <h1 align="center"> Welcome to my Github profile </h1>
 
-## TLDR ##
+## TL;DR ##
 
-I'm Alex, an enthusiastic *Junior Dev* (and reformed IT Recruiter)
+I'm Alex, an enthusiastic **Junior Dev** (and reformed IT Recruiter)
 
-Still quite new to this but I'm **loving** it
+Still quite new to this but I'm *loving* it
 
 Right Now sharpening my skills on Ruby on Rails and Javascript
 
-Take a look at some of my (sometimes silly) projects:
 
 ## Who's this? ##
    
@@ -22,6 +21,15 @@ Five random facts about me (two of them are false to keep this interesting):
 * As I grow older, I’m becoming more and more addicted to socks 
 * I’m learning the mandolin (the music instrument, not the one cutting vegetables) 
 
+## But what? ##
+
+Take a look at some of my (sometimes silly) projects: 
+
+[![Artsouille](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=Artsouille)](https://github.com/AlexandreDidion/Artsouille)
+
+[![RentaPlanet](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=RentaPlanet](https://github.com/AlexandreDidion/RentaPlanet)
+
+[![Mister Cocktail](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=rails-mister-cocktail](https://github.com/AlexandreDidion/rails-mister-cocktail)
 
 
 <!--
