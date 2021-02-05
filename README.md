@@ -27,9 +27,10 @@ Take a look at some of my (sometimes silly) projects:
 
 [![Artsouille](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=Artsouille)](https://github.com/AlexandreDidion/Artsouille)
 
-[![RentaPlanet](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=RentaPlanet](https://github.com/AlexandreDidion/RentaPlanet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidiona&repo=RentaPlanet)](https://github.com/AlexandreDidion/RentaPlanet)
 
-[![Mister Cocktail](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=rails-mister-cocktail](https://github.com/AlexandreDidion/rails-mister-cocktail)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=rails-mister-cocktail)](https://github.com/AlexandreDidion/rails-mister-cocktail)
 
 
 <!--
