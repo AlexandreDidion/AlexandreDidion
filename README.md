@@ -9,10 +9,7 @@ I'm Alex, an enthusiastic **Junior Dev** (and reformed IT Recruiter)
 
 Still quite new to this but I'm *loving* it
 
-Right Now sharpening my skills on Ruby on Rails and Javascript
-
-<img src=https://github.com/AlexandreDidion/AlexandreDidion/blob/master/ruby.svg width="20">
-
+Right now sharpening my **Ruby on Rails** and **Javascript** skills
 
 ## Who's this? ##
    
@@ -33,18 +30,6 @@ Take a look at some of my (sometimes silly) projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=rails-mister-cocktail)](https://github.com/AlexandreDidion/rails-mister-cocktail)
 
+## Feel free to drop me a message on this bad boy, I usually don’t bite : ##
 
-<!--
-**AlexandreDidion/AlexandreDidion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/alexandredidion/)
