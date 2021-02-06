@@ -7,8 +7,6 @@
 
 I'm Alex, an enthusiastic **Junior Dev** (and reformed IT Recruiter)
 
-Still quite new to this but I'm *loving* it
-
 Right now sharpening my **Ruby on Rails** and **Javascript** skills
 
 ## Who's this? ##
