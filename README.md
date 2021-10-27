@@ -21,6 +21,7 @@ Five random facts about me (two of them are false to keep this interesting):
 ## But what? ##
 
 Take a look at some of my (sometimes silly) projects:
+
 [![Dijkstra](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=dijkstra-front)](https://github.com/AlexandreDidion/dijkstra-front)
 
 [![Artsouille](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreDidion&repo=Artsouille)](https://github.com/AlexandreDidion/Artsouille)
