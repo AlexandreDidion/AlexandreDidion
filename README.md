@@ -5,7 +5,7 @@
 
 ## TL;DR ##
 
-I'm Alex, an enthusiastic **Junior Dev** (and reformed IT Recruiter)
+I'm Alex, an enthusiastic **Junior Full Stack Developer** (and reformed IT Recruiter)
 
 Right now sharpening my **Ruby on Rails** and **Javascript** skills
 
